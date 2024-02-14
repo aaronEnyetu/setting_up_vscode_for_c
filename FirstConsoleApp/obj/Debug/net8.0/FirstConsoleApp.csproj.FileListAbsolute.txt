@@ -1,0 +1,15 @@
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.exe
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.deps.json
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.runtimeconfig.json
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.dll
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\bin\Debug\net8.0\FirstConsoleApp.pdb
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.AssemblyInfo.cs
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.sourcelink.json
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.dll
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\obj\Debug\net8.0\refint\FirstConsoleApp.dll
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.pdb
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\obj\Debug\net8.0\FirstConsoleApp.genruntimeconfig.cache
+C:\Users\aaron\setting_up_vscode_for_c\FirstConsoleApp\obj\Debug\net8.0\ref\FirstConsoleApp.dll
